@@ -7,5 +7,5 @@ To begin sluething:
         <li>Open your Terminal.</li>
         <li>Clone this repo.</li>
         <li>Navigate to the reposititory</li>
-        <li>Read the instructions in the <strong>instructions.txt.<strong> file.</li>
+        <li>Read the instructions in the <strong>instructions.md<strong> file.</li>
     </ol>
