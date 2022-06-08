@@ -4,7 +4,8 @@ To find out whodunit you will need to utilize your new command line, git, and Ju
 
 To begin sluething:
     <ol> 
-        <li>Clone this repo.</li>
         <li>Open your Terminal.</li>
+        <li>Clone this repo.</li>
+        <li>Navigate to the reposititory</li>
         <li>Read the instructions in the <strong>instructions.txt.<strong> file.</li>
     </ol>
