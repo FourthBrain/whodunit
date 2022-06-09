@@ -8,4 +8,5 @@ To begin sluething:
         <li>Clone this repo.</li>
         <li>Navigate to the reposititory</li>
         <li>Read the instructions in the <strong>instructions.md<strong> file.</li>
+        <li>Use the `getting_started.md` file as a reference for command line and git commands.</li>
     </ol>
