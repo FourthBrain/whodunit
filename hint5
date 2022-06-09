@@ -1,4 +1,4 @@
-"Interview" the two possible witnesses by reading the correct line from the streets they live on:
+"Interview" the possible witnesses by reading the correct line from the streets they live on:
 
 	head -n 173 streets/Mattapan_Street | tail -n 1
 
