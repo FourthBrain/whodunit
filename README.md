@@ -7,5 +7,5 @@ To begin sluething:
         <li>Open your Terminal.</li>
         <li>Clone this repo.</li>
         <li>Navigate to the reposititory and initate git.</li>
-        <li>Read the instructions located in the 'instructions.md' file.</li>
+        <li>Read the instructions located in the `instructions.md` file.</li>
     </ol>
