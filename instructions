@@ -1,4 +1,4 @@
-You are a member of the ML Squad, an elite group of data-driven detectives in the MLC Police Department who solve crimes throughout the city.  You will go in search of clues throughout the city and using your department-issued Jupyter notebook you will piece together the identity of the murderer.
+You are a member of the ML Squad, an elite group of tech and data-savvy detectives in the MLC Police Department who solve crimes throughout the city.  You will go in search of clues throughout the city and using your department-issued Jupyter notebook you will piece together the identity of the murderer.
 
 To begin your investigation you'll want to go checkout the crimescene branch for clues.  The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their reports. Fortunately the sergeant went through and marked the real clues with the word "CLUE" in all caps.
 
