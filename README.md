@@ -6,7 +6,7 @@ To begin sluething:
     <ol> 
         <li>Open your Terminal.</li>
         <li>Clone this repo.</li>
-        <li>Navigate to the reposititory.</li>
+        <li>Navigate to the reposititory and initate git.</li>
         <li>Read the instructions located in the 'instructions.md' file.</li>
         <li>Use the `getting_started.md` file as a reference for command line and git commands.</li>
     </ol>
