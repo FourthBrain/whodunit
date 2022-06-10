@@ -4,4 +4,4 @@ To begin your investigation you'll want to go checkout the crimescene branch for
 
 After you have collected all of the clues from the crimescene, head over to the police_station branch to begin evaluating the clues with other data that have been extracted from the department's database.
 
-If you get stuck reference back to the sofware-dev-101.md and use the hint in the main branch to get you started!
+If you get stuck reference the sofware-dev-for-ml-101.md in the software-dev-for-ml-101 and use the hint in the main branch to get you started!
