@@ -2,6 +2,6 @@ You are a member of the ML Squad, an elite group of tech and data-savvy detectiv
 
 To begin your investigation you'll want to go checkout the crimescene branch for clues.  The officers on the scene are pretty meticulous, so they've written down EVERYTHING in their reports. Fortunately the sergeant went through and marked the real clues with the word "CLUE" in all caps.
 
-After you have collected all of the clues, head over to the police_station branch to begin evaluating the clues with other data in the department's database.
+After you have collected all of the clues from the crimescene, head over to the police_station branch to begin evaluating the clues with other data that have been extracted from the department's database.
 
 If you get stuck reference back to the sofware-dev-101.md and use the hint in the main branch to get you started!
