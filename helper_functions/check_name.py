@@ -7,7 +7,7 @@ def check_name(name: str) -> None:
             print('And now that you\'ve completed your ML software development onramp, tell the world that you\'re ready to begin your journey! \n')
             print('---------------------------------------- Post Template ----------------------------------------------------')
             print('I just completed the #ml software development onramp from @FourthBrain and solved a #whodunit mystery.')
-            print("I can\'t wait to get started on Saturday, June 18th taking my #ml career to the next level with my new tool stack including the Unix Command Line, Git, Conda, Pip, and of course, Jupyter Notebooks!")
+            print("I can\'t wait to take my #ml career to the next level with my new tool stack including the Unix Command Line, Git, Conda, Pip, and of course, Jupyter Notebooks!")
             print('#machinelearningengineering #mle #buildinpublic')
             print('---------------------------------------------------------------------------------------------------------------------')
             print('\n')
